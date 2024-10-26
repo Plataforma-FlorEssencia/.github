@@ -1,12 +1,23 @@
-## Hi there 👋
+<h1>✨FlorEssência✨</h1>
+ 
+<div align="center">
+  <img width="100%" src=""/>
+</div>
+<br/>
+<div align="center">
+  
+   <h2>Sobre nós:</h2>
+   <p>
+      FloreEssência é uma plataforma de bem-estar voltada para mulheres, projetada para ajudar a adquirir e desenvolver a confiança e autoestima, especialmente no contexto profissional. A plataforma é gamificada e oferece uma variedade de recursos, como artigos, diários e suporte profissional, para promover o autoconhecimento e a valorização de si mesma. 
+   </p>
+   <h2>Nossa equipe:</h2>
+   <img width="100%" src="" />
+</div>
+<br/>
 
-<!--
+## Siga-nos em nossas redes sociais:
 
-**Here are some ideas to get you started:**
+Siga a AfroGlow nas redes sociais para ficar por dentro das últimas novidades e atualizações:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Linkedin [Linkedin FlorEssência](https://www.linkedin.com/company/floress%C3%AAncia0/?viewAsMember=true)
+- Instagram: [@_floressencia._](https://www.instagram.com/_floressencia._/)
