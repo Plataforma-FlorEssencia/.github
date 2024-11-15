@@ -47,7 +47,7 @@
 
 ## Siga-nos em nossas redes sociais:
 
-Siga a AfroGlow nas redes sociais para ficar por dentro das últimas novidades e atualizações:
+Siga a FlorEssência nas redes sociais para ficar por dentro das últimas novidades e atualizações:
 
 - Linkedin [Linkedin FlorEssência](https://www.linkedin.com/company/floress%C3%AAncia0/?viewAsMember=true)
 - Instagram: [@_floressencia._](https://www.instagram.com/_floressencia._/)
