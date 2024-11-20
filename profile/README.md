@@ -1,7 +1,7 @@
 <h1>✨FlorEssência✨</h1>
  
 <div align="center">
-<img src="">
+<img src="https://i.imgur.com/Geckm9w.png">
  
 </div>
 <br/>
