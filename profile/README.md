@@ -8,7 +8,7 @@
   
    <h2>Sobre nós:</h2>
    <p>
-      FloreEssência é uma plataforma de bem-estar voltada para mulheres, projetada para ajudar a adquirir e desenvolver a confiança e autoestima, especialmente no contexto profissional. A plataforma é gamificada e oferece uma variedade de recursos, como artigos, diários e suporte profissional, para promover o autoconhecimento e a valorização de si mesma. 
+      FloreEssência é uma plataforma de bem-estar voltada para mulheres, projetada para ajudar a adquirir e desenvolver a confiança e autoestima, especialmente no contexto profissional. A plataforma é gamificada e oferece uma variedade de recursos, como artigos, diários e atividades, para promover o autoconhecimento e a valorização de si mesma. 
    </p>
 
 ##
