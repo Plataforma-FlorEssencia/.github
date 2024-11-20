@@ -1,7 +1,8 @@
 <h1>✨FlorEssência✨</h1>
  
 <div align="center">
-  <img width="100%" src=""/>
+<img src="">
+ 
 </div>
 <br/>
 <div align="center">
@@ -41,7 +42,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="80px">
    
    <h2>Nossa equipe:</h2>
-   <img width="100%" src="" />
+   <img width="100%" src="https://i.imgur.com/BSasCqX.png" />
 </div>
 <br/>
 
